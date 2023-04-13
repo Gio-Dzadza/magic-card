@@ -1,22 +1,22 @@
- Magic Match 🧙‍♂️🎴
+ #**Magic Match 🧙‍♂️🎴**
  
-  🧐 About
+ ##** 🧐 About**
 
  Magic Match is a fun and interactive game that challenges players to use their memory skills to match pairs of magical objects. The game is built with React and uses state management to keep track of the game board and user choices.
 
- How to Play :game_die:
+ ###**How to Play :game_die:**
 - Click on two cards to flip them over.
 - If the cards match, they'll stay flipped over and you'll earn points.
 - If the cards don't match, they'll flip back over and you can try again.
 - The game ends when all cards have been matched.
 
- Features :sparkles:
+ ###Features :sparkles:
 - Random card shuffling using the Fisher-Yates algorithm.
 - Keeps track of the number of turns taken.
 - Allows users to enter their name and keeps track of their points in a leaderboard.
 - Fully responsive design with CSS Grid and Flexbox.
 
- 🔧Technologies Used :computer:
+ ###**🔧Technologies Used :computer:**
 - React
 - CSS Grid
 - Flexbox
