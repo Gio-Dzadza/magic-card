@@ -1,7 +1,8 @@
  Magic Match 🧙‍♂️🎴
  
   🧐 About
-Magic Match is a fun and interactive game that challenges players to use their memory skills to match pairs of magical objects. The game is built with React and uses state management to keep track of the game board and user choices.
+
+ Magic Match is a fun and interactive game that challenges players to use their memory skills to match pairs of magical objects. The game is built with React and uses state management to keep track of the game board and user choices.
 
  How to Play :game_die:
 - Click on two cards to flip them over.
