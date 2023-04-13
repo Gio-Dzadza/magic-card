@@ -1,5 +1,7 @@
  # **Magic Match** 🧙‍♂️🎴
  
+ ## **Open it here:** https://gio-dzadza.github.io/magic-card/
+ 
  ## **🧐 About**
 
  Magic Match is a fun and interactive game that challenges players to use their memory skills to match pairs of magical objects. The game is built with React and uses state management to keep track of the game board and user choices.
