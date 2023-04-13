@@ -18,7 +18,7 @@ export default function SingleCard({ card, handleChoice, flipped, disabled }) {
             </img>
             <img 
             className='back' 
-            src="https://gio-dzadza.github.io/magic-card/img/cover.png" 
+            src="/img/cover.png" 
             onClick={handleClick} 
             alt='card back'>
             </img>
