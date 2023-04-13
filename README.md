@@ -1,4 +1,4 @@
- #Magic Match 🧙‍♂️🎴
+ # **Magic Match** 🧙‍♂️🎴
  
  ##** 🧐 About**
 
