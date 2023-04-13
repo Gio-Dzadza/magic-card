@@ -5,13 +5,13 @@ import EndOfTheGame from './components/EndOfTheGame';
 import PointsMarkap from './components/PointsMarkap';
 
 const cardImages = [
-    { src: "https://gio-dzadza.github.io/magic-card/img/helmet-1.png", matched: false },
-    { src: "https://gio-dzadza.github.io/magic-card/img/potion-1.png", matched: false },
-    { src: "https://gio-dzadza.github.io/magic-card/img/ring-1.png", matched: false },
-    { src: "https://gio-dzadza.github.io/magic-card/img/scroll-1.png", matched: false },
-    { src: "https://gio-dzadza.github.io/magic-card/img/shield-1.png", matched: false },
-    { src: "https://gio-dzadza.github.io/magic-card/img/sword-1.png", matched: false }
-  ];
+    {"src": "/img/helmet-1.png", matched: false},
+    {"src": "/img/potion-1.png", matched: false},
+    {"src": "/img/ring-1.png", matched: false},
+    {"src": "/img/scroll-1.png", matched: false},
+    {"src": "/img/shield-1.png", matched: false},
+    {"src": "/img/sword-1.png", matched: false}
+];
 
 
 export default function AppShuffleCard() {
