@@ -1,5 +1,6 @@
  Magic Match 🧙‍♂️🎴
- 🧐 About
+ 
+  🧐 About
 Magic Match is a fun and interactive game that challenges players to use their memory skills to match pairs of magical objects. The game is built with React and uses state management to keep track of the game board and user choices.
 
  How to Play :game_die:
@@ -33,7 +34,9 @@ Magic Match is a fun and interactive game that challenges players to use their m
 
  Feel free to use, modify, and distribute this code as you like. Don't forget to give credit where credit is due!
 
-Magic Match Card Game
+
+ Some more detailed description
+ Magic Match Card Game
  
  This is a web-based memory card game developed using React. The objective of the game is to match all pairs of cards with the same image in the fewest possible turns. The game starts with a set of cards arranged face-down. The player flips two cards each turn, trying to find a matching pair. If the two flipped cards match, they remain face-up and are removed from play. If they don't match, they are flipped face-down again and the player tries again on their next turn. The game ends when all pairs have been matched.
 
@@ -49,8 +52,8 @@ Magic Match Card Game
 - useState 🎣🔢
 - useEffect 🎣🔍
 
- useState is used to manage state within the component. It allows us to declare a state variable and a function to update that variable. In this project, it is used to keep track of the state of the game such as the cards, the turns, the choices, the disabled state, and the end game state. For example, we use useState to declare the cards state variable and the setCards function to update it.
+ 🧮useState is used to manage state within the component. It allows us to declare a state variable and a function to update that variable. In this project, it is used to keep track of the state of the game such as the cards, the turns, the choices, the disabled state, and the end game state. For example, we use useState to declare the cards state variable and the setCards function to update it.
 
- useEffect is used to perform side effects within a functional component. It allows us to run some code after the component is mounted, or when a specific variable changes. In this project, we use useEffect to shuffle the cards on component mount and to check if the game is over. We also use it to handle the logic of comparing two choices and to update the points after the game is over.
+ 🎨useEffect is used to perform side effects within a functional component. It allows us to run some code after the component is mounted, or when a specific variable changes. In this project, we use useEffect to shuffle the cards on component mount and to check if the game is over. We also use it to handle the logic of comparing two choices and to update the points after the game is over.
 
  This project was developed by Giorgi Dzadzamia as a learning exercise in React.
